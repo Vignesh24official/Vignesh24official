@@ -1,90 +1,107 @@
-<!-- 🔥 TOP BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Vignesh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+# Hi, I'm Vignesh S 👋
 
-<h1 align="center">Hi 👋, I'm Vignesh</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Learner | Problem Solver</h3>
+### MCA Student | Full Stack Developer | Problem Solver
 
-<!-- ⚡ TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;React+Specialist;Building+Real+Projects;Learning+AI+Daily;Future+Software+Engineer&center=true&width=550&height=50&color=00F7FF">
-</p>
+I'm an enthusiastic MCA student at Kalasalingam Academy of Research and Education with a strong foundation in Computer Science and hands-on experience in Full Stack Development. I enjoy building scalable web applications, exploring Machine Learning, and developing innovative solutions using modern technologies.
 
 ---
 
-## 🧑‍💻 About Me
-<img align="right" width="320" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+## 🚀 About Me
 
-- 💻 Passionate about building real-world applications  
-- 🌱 Currently learning Backend & AI  
-- 🚀 Focused on improving every day  
-- 🎯 Goal: Become a top Software Engineer  
-
----
-
-## ⚡ Tech Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,git,github,vscode" />
-</p>
+- 🎓 MCA Candidate (2025–2027)
+- 💻 Passionate about Full Stack Development
+- 🌱 Currently learning Advanced Backend Development & System Design
+- 🤖 Interested in Machine Learning and IoT
+- 🎯 Seeking Software Development and Full Stack Development opportunities
+- 📍 Aruppukottai, Tamil Nadu, India
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vignesh24official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
+## 🛠️ Tech Stack
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vignesh24official&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
+## 📌 Featured Projects
+
+### 🧠 Intelligent Journey Prediction System
+Machine Learning-based travel route prediction system that helps tourists plan journeys efficiently using historical travel data.
+
+### 📚 Online Learning Platform
+A full-stack learning platform built with React, Node.js, Express.js, and MongoDB featuring user authentication and course management.
+
+### 📱 Gesture Control Mobile Application
+Developed a mobile application that enables wireless device control using gesture recognition.
+
+### 🌐 IoT Object Detection System
+Implemented an object detection system using ultrasonic sensors integrated with IoT devices.
 
 ---
 
-## 📈 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh24official&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
+## 🎓 Education
+
+**Master of Computer Applications (MCA)**  
+Kalasalingam Academy of Research and Education  
+CGPA: **9.1**
+
+**Bachelor of Science in Computer Science**  
+Kalasalingam Academy of Research and Education  
+CGPA: **9.07**
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vignesh24official&theme=algolia&no-frame=true&row=1&margin-w=15" />
-</p>
+## 🏆 Certifications
+
+- NPTEL – Principles of Management
+- NPTEL – Internet of Things (IoT)
 
 ---
 
-## 🐍 Contribution Snake (LIVE)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+## 💼 Internships
+
+- Full Stack Development Intern – Web Walk Infosys
+- App Development Intern – Nineteen Hour IT Pvt Ltd
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-<a href="mailto:vigneshvms24@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-</p>
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vignesh24official&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh24official&layout=compact)
 
 ---
 
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vignesh24official&label=Visitors&color=0e75b6&style=flat" />
-</p>
+## 🤝 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/vigneshs2004
+- GitHub: https://github.com/Vignesh24official
+- Email: vigneshvms24@gmail.com
 
 ---
 
-<!-- 🔥 FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
-</p>
+### 💡 Quote
+
+> "Learning never exhausts the mind. Every project is an opportunity to grow."
