@@ -1,245 +1,232 @@
-# 👋 Hi, I'm Vignesh S
+<div align="center">
 
-### `MCA Candidate` • `Full Stack Developer` • `Python Developer`
+# VIGNESH S
 
-<p align="left">
-  <a href="https://linkedin.com/in/vigneshs2004">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vigneshvms24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Vignesh24official">
-    <img src="https://img.shields.io/badge/GitHub-Vignesh24official-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### Software Developer · Full Stack · Python
 
----
+**I build practical software, process complex data, and turn ideas into working products.**
 
-## 🚀 About Me
+<br/>
 
-I'm an **MCA candidate and Full Stack Developer** with a strong academic background in Computer Science and hands-on experience in software development, Python-based data processing, and application development.
+<a href="https://github.com/Vignesh24official">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/vigneshs2004">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:vigneshvms24@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
-I enjoy building practical applications, working with structured data, and solving real-world problems through technology.
+</div>
 
-* 🎓 **MCA Candidate** — CGPA: **9.03**
-* 💻 Focused on **Full Stack Development & Python**
-* 🧠 Interested in **Machine Learning & Data Processing**
-* 🔧 Experience across **Frontend, Backend & Databases**
-* 📊 Experienced in **text processing and JSON data transformation**
-* 🌱 Continuously improving my software development skills
-* 🎯 Seeking opportunities in **Software Development**
+<br/>
 
 ---
 
-## 🛠️ Tech Stack
+## `01` — Engineering Profile
 
-### 💻 Programming Languages
+I’m a Computer Science graduate currently pursuing my **Master of Computer Applications**, with hands-on experience across full-stack development, Python-based data processing, application development, machine learning, and IoT.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-</p>
+My approach is simple:
 
-### 🌐 Web Development
+> **Understand the problem → design the solution → build it → test it → improve it.**
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-</p>
-
-### 🗄️ Databases & Data
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
-</p>
-
-### 🔧 Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
+I’m particularly interested in building software that is practical, maintainable, and useful beyond the classroom.
 
 ---
 
-## ⭐ Featured Projects
+## `02` — What I Work With
 
-### 🧭 Intelligent Journey Prediction System
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Machine Learning Project**
+### Development
 
-A predictive system designed to assist tourists in planning travel routes using machine learning algorithms.
+**Languages**
 
-**Highlights**
+`Python` `Java` `JavaScript` `C` `C++`
 
-* Developed a predictive journey-planning system.
-* Used historical travel data to improve journey predictions.
-* Applied machine learning concepts to a practical travel-planning problem.
+**Frontend**
 
----
+`HTML` `CSS` `React`
 
-### 🎓 Online Learning Platform
+**Backend**
 
-**Full Stack Web Application**
+`Node.js` `Express.js`
 
-A full-stack learning platform designed to provide online learning functionality.
+</td>
 
-**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB`
+<td width="50%" valign="top">
 
-**Highlights**
+### Data & Infrastructure
 
-* Developed the platform using a full-stack architecture.
-* Implemented **user authentication**.
-* Implemented **course management** functionality.
+**Databases**
 
----
+`MongoDB` `MySQL` `Firebase`
 
-### 📱 Gesture Control Using Mobile Application
+**Data**
 
-A mobile-based gesture control system designed to operate devices wirelessly.
+`JSON` · Text Processing · Data Cleaning
 
-**Highlights**
+**Tools**
 
-* Developed a mobile application-based gesture control system.
-* Focused on wireless device interaction.
-* Worked on application functionality and usability.
+`Git` `GitHub`
 
----
-
-### 📡 Object Detection Using Ultrasonic Sensor
-
-**IoT Project**
-
-An IoT-based object detection project using ultrasonic sensors.
-
-**Highlights**
-
-* Implemented object detection using ultrasonic sensors.
-* Integrated sensor functionality with IoT devices.
-* Applied practical IoT concepts to object detection.
+</td>
+</tr>
+</table>
 
 ---
 
-### 📚 Sanskrit Book Data Cleaning & JSON Processing
+## `03` — Selected Work
 
-**Python • Data Processing**
+### 01 / Intelligent Journey Prediction
 
-A data-processing project focused on cleaning and structuring Sanskrit book content.
+**Machine Learning · Predictive Systems**
 
-**Highlights**
+A predictive system focused on helping tourists plan travel routes using historical travel data.
 
-* Cleaned and preprocessed textual book data.
-* Used Python for data processing and organization.
-* Converted cleaned content into structured **JSON output**.
-* Maintained consistency and the required output structure.
+The project explores how historical information can be used to improve journey predictions and support travel planning decisions.
 
 ---
 
-## 💼 Internship Experience
+### 02 / Online Learning Platform
 
-### Adiyen Technologies Pvt. Ltd.
+**React · Node.js · Express · MongoDB**
 
-**Intern | Apr 2026 – Oct 2026 | Remote**
+A full-stack learning platform built around real application workflows rather than a static frontend.
 
-* Worked on data-cleaning tasks for assigned Sanskrit books.
-* Used **Python** to clean, process, and organize textual data.
-* Converted processed book content into structured **JSON**.
-* Maintained consistency and required output structure.
+**Core capabilities**
 
-### Web Walk Infosys
-
-**Internship — Full Stack Development**
-
-* Worked with frontend, backend, and database components.
-* Assisted in developing full-stack web application features.
-* Participated in testing and debugging.
-* Contributed to improving application reliability and user experience.
-
-### Nineteen Hour IT Pvt Ltd
-
-**Internship — App Development**
-
-* Worked on mobile application screens and functionality.
-* Focused on usability and user requirements.
-* Assisted with testing and debugging application features.
-* Gained practical exposure to the application development lifecycle.
+* User authentication
+* Course management
+* Frontend application development
+* Backend services
+* Database integration
 
 ---
 
-## 🎓 Education
+### 03 / Sanskrit Data Processing
 
-### Master of Computer Applications — MCA
+**Python · Data Cleaning · JSON**
 
-**Kalasalingam Academy of Research and Education**
-`2025 – 2027` • **CGPA: 9.03**
+A practical data-processing workflow developed during my internship experience.
 
-### Bachelor of Science — Computer Science
+The work involved taking textual Sanskrit book content, cleaning and organizing it, and transforming the processed information into structured JSON.
 
-**Kalasalingam Academy of Research and Education**
-`2022 – 2025` • **CGPA: 9.07**
+**Focus**
 
----
-
-## 📜 Certifications
-
-* **NPTEL** — Principles of Management
-* **NPTEL** — Internet of Things (IoT)
+`Data Quality` → `Processing` → `Structure` → `Consistency`
 
 ---
 
-## 💡 Strengths
+### 04 / Gesture Control
 
-* Problem Solving
-* Clear Communication
-* Time Management
-* Adaptability
-* Responsibility
+**Mobile Application · Wireless Control**
+
+A mobile-based system designed to control devices wirelessly through gestures.
+
+The project combines application development with device interaction to explore a more natural form of control.
 
 ---
 
-## 🌱 Current Focus
+### 05 / Ultrasonic Object Detection
+
+**IoT · Sensors**
+
+An IoT project using ultrasonic sensing for object detection.
+
+The project provided practical exposure to sensor-based systems and device integration.
+
+---
+
+## `04` — Engineering Experience
+
+My development experience has come from working on actual application and data-processing tasks through internships.
+
+**Full Stack Development**
+Worked across frontend, backend, and database components while contributing to application functionality, testing, debugging, and user experience.
+
+**Python & Data Processing**
+Worked with textual data, developing processing workflows to clean, organize, and transform content into structured JSON.
+
+**Application Development**
+Worked on mobile application screens and functionality while considering usability, requirements, testing, and debugging.
+
+---
+
+## `05` — Currently Building
+
+I'm focused on becoming a stronger **end-to-end software developer**.
 
 ```text
-Full Stack Development
-        ↓
-React + Node.js + Express.js
-        ↓
-Database-driven Applications
-        ↓
-Python Data Processing
-        ↓
-Machine Learning & Practical Applications
+                    SOFTWARE DEVELOPMENT
+                           │
+            ┌──────────────┼──────────────┐
+            ↓              ↓              ↓
+        FULL STACK       PYTHON           DATA
+            │              │              │
+            ↓              ↓              ↓
+       React / Node     Processing      Structured
+       Express          Automation       JSON
+            │              │              │
+            └──────────────┼──────────────┘
+                           ↓
+                    PRACTICAL PRODUCTS
 ```
 
-I'm focused on strengthening my software development skills through hands-on projects, internships, and continuous learning.
+My current direction is toward projects where **frontend, backend, data, and problem-solving come together**.
 
 ---
 
-## 📫 Let's Connect
+## `06` — Education
 
-I'm open to connecting with developers, recruiters, and professionals interested in software development opportunities.
+**Master of Computer Applications**
+Kalasalingam Academy of Research and Education · `2025 — 2027`
+**CGPA 9.03**
 
-<p align="left">
-  <a href="mailto:vigneshvms24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vigneshvms24%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/vigneshs2004">
-    <img src="https://img.shields.io/badge/LinkedIn-Vignesh%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+**B.Sc. Computer Science**
+Kalasalingam Academy of Research and Education · `2022 — 2025`
+**CGPA 9.07**
 
 ---
 
-<p align="center">
-  <i>Building practical solutions. Learning continuously. Growing as a developer.</i>
-</p>
+## `07` — Beyond the Code
+
+I value the engineering habits that make technical skills useful in real teams:
+
+`Problem Solving` · `Communication` · `Adaptability` · `Responsibility` · `Time Management`
+
+---
+
+## `08` — Let's Build
+
+I'm interested in connecting with **software engineers, technical professionals, recruiters, and teams** working on interesting products and engineering problems.
+
+<div align="center">
+
+### Open to Software Development Opportunities
+
+<br/>
+
+<a href="mailto:vigneshvms24@gmail.com">
+<img src="https://img.shields.io/badge/Let's%20Talk-161616?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+**Vignesh S**
+
+`Full Stack` · `Python` · `Software Development`
+
+</div>
